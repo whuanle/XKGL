@@ -1,0 +1,15 @@
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.frmMain.resources
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.csproj.GenerateResource.Cache
+C:\Users\Fly\Desktop\xk\xk\xk\bin\Debug\xk.exe.config
+C:\Users\Fly\Desktop\xk\xk\xk\bin\Debug\xk.exe
+C:\Users\Fly\Desktop\xk\xk\xk\bin\Debug\xk.pdb
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.Properties.Resources.resources
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.exe
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.pdb
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.frmClass.resources
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.frmDrapartment.resources
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.frmStudent.resources
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.frmCourse.resources
+D:\xk27\xk\xk\xk\bin\Debug\xk.exe.config
+D:\xk27\xk\xk\xk\obj\x86\Debug\xk.exe
+D:\xk27\xk\xk\xk\obj\x86\Debug\xk.pdb

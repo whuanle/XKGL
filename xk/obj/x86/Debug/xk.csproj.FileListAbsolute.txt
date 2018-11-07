@@ -1,0 +1,96 @@
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.frmMain.resources
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.csproj.GenerateResource.Cache
+C:\Users\Fly\Desktop\xk\xk\xk\bin\Debug\xk.exe.config
+C:\Users\Fly\Desktop\xk\xk\xk\bin\Debug\xk.exe
+C:\Users\Fly\Desktop\xk\xk\xk\bin\Debug\xk.pdb
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.Properties.Resources.resources
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.exe
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.pdb
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.frmClass.resources
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.frmDrapartment.resources
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.frmStudent.resources
+C:\Users\Fly\Desktop\xk\xk\xk\obj\x86\Debug\xk.frmCourse.resources
+D:\xk\xk\xk\xk\bin\Debug\xk.exe.config
+D:\xk\xk\xk\xk\obj\x86\Debug\xk.exe
+D:\xk\xk\xk\xk\obj\x86\Debug\xk.pdb
+D:\xk\xk\xk\xk\obj\x86\Debug\xk.frmClass.resources
+D:\xk\xk\xk\xk\obj\x86\Debug\xk.frmCourse.resources
+D:\xk\xk\xk\xk\obj\x86\Debug\xk.frmDrapartment.resources
+D:\xk\xk\xk\xk\obj\x86\Debug\xk.frmLogin.resources
+D:\xk\xk\xk\xk\obj\x86\Debug\xk.frmMain.resources
+D:\xk\xk\xk\xk\obj\x86\Debug\xk.frmStudent.resources
+D:\xk\xk\xk\xk\obj\x86\Debug\xk.Properties.Resources.resources
+D:\xk\xk\xk\xk\obj\x86\Debug\xk.csproj.GenerateResource.Cache
+D:\xk\xk\xk\xk\bin\Debug\xk.exe
+D:\xk\xk\xk\xk\bin\Debug\xk.pdb
+D:\xk\xk\xk\xk\obj\x86\Debug\xk.frmSelectCourse.resources
+D:\xk\xk\xk\xk\obj\x86\Debug\xk.csprojResolveAssemblyReference.cache
+D:\xk27\xk\xk\xk\xk\bin\Debug\xk.exe.config
+D:\xk27\xk\xk\xk\xk\obj\x86\Debug\xk.exe
+D:\xk27\xk\xk\xk\xk\obj\x86\Debug\xk.pdb
+D:\xk27\xk\xk\xk\xk\bin\Debug\xk.exe
+D:\xk27\xk\xk\xk\xk\bin\Debug\xk.pdb
+D:\xk27\xk\xk\xk\xk\obj\x86\Debug\xk.frmSelectCourse.resources
+D:\xk27\xk\xk\xk\xk\obj\x86\Debug\xk.frmClass.resources
+D:\xk27\xk\xk\xk\xk\obj\x86\Debug\xk.frmCourse.resources
+D:\xk27\xk\xk\xk\xk\obj\x86\Debug\xk.frmDrapartment.resources
+D:\xk27\xk\xk\xk\xk\obj\x86\Debug\xk.frmLogin.resources
+D:\xk27\xk\xk\xk\xk\obj\x86\Debug\xk.frmMain.resources
+D:\xk27\xk\xk\xk\xk\obj\x86\Debug\xk.frmStudent.resources
+D:\xk27\xk\xk\xk\xk\obj\x86\Debug\xk.Properties.Resources.resources
+D:\xk27\xk\xk\xk\xk\obj\x86\Debug\xk.csproj.GenerateResource.Cache
+D:\xk27\xk\xk\xk\xk\obj\x86\Debug\xk.frmMyResult.resources
+D:\xk27\xk\xk\xk\xk\obj\x86\Debug\xk.frmStudentNotSelectCourse.resources
+D:\xk27\xk\xk\xk\xk\obj\x86\Debug\xk.frmStudentNumGroupByClassSex.resources
+D:\xk27\xk\xk\xk -加皮肤\xk\bin\Debug\xk.exe.config
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.exe
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.pdb
+D:\xk27\xk\xk\xk -加皮肤\xk\bin\Debug\xk.exe.manifest
+D:\xk27\xk\xk\xk -加皮肤\xk\bin\Debug\xk.application
+D:\xk27\xk\xk\xk -加皮肤\xk\bin\Debug\xk.exe
+D:\xk27\xk\xk\xk -加皮肤\xk\bin\Debug\xk.pdb
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmMyResult.resources
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmSelectCourse.resources
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmClass.resources
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmCourse.resources
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmDrapartment.resources
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmLogin.resources
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmMain.resources
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmStudent.resources
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmStudentNotSelectCourse.resources
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmStudentNumGroupByClassSex.resources
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.Properties.Resources.resources
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.csproj.GenerateResource.Cache
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.exe.manifest
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.application
+D:\xk27\xk\xk\xk -加皮肤\xk\bin\Debug\CSkin.dll
+D:\xk27\xk\xk\xk -加皮肤\xk\bin\Debug\CSkin.xml
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.Form1.resources
+D:\xk27\xk\xk\xk -加皮肤\xk\obj\x86\Debug\xk.csprojResolveAssemblyReference.cache
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\bin\Debug\xk.exe.config
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\bin\Debug\xk.exe.manifest
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\bin\Debug\xk.application
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\bin\Debug\xk.exe
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\bin\Debug\xk.pdb
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\bin\Debug\CSkin.dll
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\bin\Debug\CSkin.xml
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.csprojAssemblyReference.cache
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.Form1.resources
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmMyResult.resources
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmSelectCourse.resources
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmClass.resources
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmCourse.resources
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmDrapartment.resources
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmLogin.resources
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmMain.resources
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmStudent.resources
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmStudentNotSelectCourse.resources
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.frmStudentNumGroupByClassSex.resources
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.Properties.Resources.resources
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.csproj.GenerateResource.cache
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.csproj.CoreCompileInputs.cache
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.exe.manifest
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.application
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.csproj.CopyComplete
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.exe
+C:\Users\whuanle\Desktop\xk292\xk\xk -加皮肤\xk\obj\x86\Debug\xk.pdb
