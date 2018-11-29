@@ -25,10 +25,12 @@
 3. 更改文件数据库连接 Properties/Settings/Settings.Designer.cs
 4. 点击 Properties 目录下的Setting.setting修改连接字符串  
     [global::System.Configuration.DefaultSettingValueAttribute()]  
-5. 数据库已经添加一些信息，请在 Users 表中，添加管理员账号。在登陆时方可用管理员账号登陆  
 
 ![输入图片说明](https://gitee.com/uploads/images/2018/0629/164832_6b4f59f9_1935277.png "屏幕截图.png")
 ![输入图片说明](https://gitee.com/uploads/images/2018/0629/165111_5d11f466_1935277.png "屏幕截图.png")
+
+5. 数据库已经添加一些信息，请在 Users 表中，添加管理员账号。在登陆时方可用管理员账号登陆。  
+6. 登陆验证码默认为4位数字，可以修改其它组合，请到CSkin官方查看文档。  
 
 #### 使用说明
 
@@ -37,10 +39,15 @@
 2. CSkin  
 Skin为第三方皮肤  
 网站 http://www.cskin.net/  
-
+3，部分特定功能可能有BUG~~~
 #### 参与贡献
 
-1. 原创 曾建华(深职院老师)
-2. 修改优化、加皮肤、增加功能、项目发布 痴者工良
+1. 原项目作者 曾建华(深职院老师)
+2. 修改优化、加皮肤、增加功能、项目发布 (学生) 痴者工良
 
+#### 其它界面预览
 
+![是否隐藏](https://images.gitee.com/uploads/images/2018/1129/184851_d94e545d_1935277.png "屏幕截图.png")
+![右下角菜单栏](https://images.gitee.com/uploads/images/2018/1129/184946_2be24cf8_1935277.png "屏幕截图.png")
+![表单](https://images.gitee.com/uploads/images/2018/1129/184832_c63f8be5_1935277.png "屏幕截图.png")
+![多窗口](https://images.gitee.com/uploads/images/2018/1129/185037_7bf04cbf_1935277.png "屏幕截图.png")
